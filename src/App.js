@@ -20,6 +20,9 @@ function App() {
             Learn React
           </a>
         </header>
+        <p>
+          This issue is fix now 
+        </p>
       </div>
     </BrowserRouter>
   );
